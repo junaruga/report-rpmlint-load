@@ -29,5 +29,5 @@ install -m 0755 test %{buildroot}/%{_bindir}/test
 %{_bindir}/test
 
 %changelog
-* Fri Mar 26 2021 Jun Aruga <jaruga@redhat.com>
+* Fri Mar 26 2021 Jun Aruga <jaruga@redhat.com> - 1-1
 - Init.
